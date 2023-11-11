@@ -4,6 +4,7 @@
 
 Hasil scrape PDF hasil putusan pidana khusus narkotika dan psikotropika PN Tasikmalaya pada tahun 2022-2023. Jumlah file PDF yang berhasil terkumpul sebanyak 59 file.
 
+### Struktur Repositori
 Repositori ini berisi :
 - Dataset
 > Note : Dataset sudah dikompress dalam format file .zip
@@ -20,4 +21,5 @@ Nomor Putusan | Lembaga Peradilan | Bukti | Amar Putusan
 ### Kontributor
 - Ilham Kurniawan (202010370311195)
 - Choirul Septyono (2022010370311238)
+
 **Universitas Muhammadiyah Malang** - 2023
